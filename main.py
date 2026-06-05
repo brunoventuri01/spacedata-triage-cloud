@@ -31,7 +31,7 @@ def home():
             "ODS 9 - Indústria, Inovação e Infraestrutura",
             "ODS 13 - Ação contra a mudança global do clima"
         ],
-        "version": "1.0.0"
+        "version": "1.0.1"
     }
 
 
