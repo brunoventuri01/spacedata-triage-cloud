@@ -4,3 +4,5 @@ __pycache__/
 .env
 .env.*
 deploy.zip
+
+publish-profile.xml
